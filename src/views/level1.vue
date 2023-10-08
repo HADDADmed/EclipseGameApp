@@ -25,7 +25,6 @@ A solar eclipse happens when the Moon passes between the Sun and Earth, casting 
 
     </div>
     <div class="img">
-        <img src="src\assets\5655_Solar_Eclipse_Lunar_Shadow.gif" alt="">
         <div style="margin-top: 50px; ">
             <RouterLink   class="btn btn-light rounded rounded-pill m-5" style=" font-size: 25px; font-weight: 900; width: 200px;" :to="{ name: 'level2' }"
          >      Next    
